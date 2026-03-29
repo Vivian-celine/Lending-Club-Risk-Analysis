@@ -163,7 +163,7 @@ Based on Random Forest feature importance:
 ## 📈 Dashboard Preview
 
 ### Page 1: Loan Portfolio & Risk Analysis
-![Loan Portfolio & Risk Analysis](images/page1_loan_portfolio.PNG)
+![Loan Portfolio & Risk Analysis](Images/page1_loan_portfolio.PNG)
 
 ### Page 2: Borrower Profile & Insight
 ![Borrower Profile & Insight](Images/page2_borrower_insight.PNG)
