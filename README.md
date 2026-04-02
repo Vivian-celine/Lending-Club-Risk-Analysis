@@ -190,6 +190,10 @@ Based on Random Forest feature importance:
 
 9. **Borrowers with 10+ years employment default more** — Long employment history leads to larger loan approvals which increases default risk when combined with high DTI
 
+10. **Default Rate Trend Over Time** — The default rate was at its highest in 2007 at 17.93% — likely reflecting the early signs of the global financial crisis — then declined to its lowest point of 12.6% in 2009 before climbing again to 15.9% in 2011. This pattern confirms that external economic conditions directly and measurably impact borrower repayment behaviour.
+
+11. **Loan Portfolio Growth vs Default Rate** — Loan issuance grew from $2.2M in 2007 to $241M in 2011 — a 10,859% increase — yet default rates remained range-bound between 12.6% and 17.93%, suggesting the platform scaled aggressively without fully controlling portfolio risk.
+
 ---
 
 ## ✅ Recommendations
@@ -207,6 +211,7 @@ Based on Random Forest feature importance:
 6. **Target Grade A and B borrowers for growth** — With default rates of 6% and 12%, these segments represent the healthiest lending opportunity
 
 7. **Use mortgage ownership as positive credit signal** — Mortgage holders default less and should receive preferential rates
+
 
 ---
 
